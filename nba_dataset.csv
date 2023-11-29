@@ -1,4 +1,3 @@
-NBA Dataset - Sheet1
 FG Diff,FG% Diff,3pt Diff,3P% Diff,FT Diff,FT% Diff,Assist Diff,Turnover Diff,O Rebounds Diff,D Rebounds Diff,Steals Diff,Blocks Diff,Foul Diff,Winner (first team = 1 sec team = 0)
 17,0,-2,7.5,-4,0,5,-8,5,-6,8,-5,-1,1
 -5,2.1,13,-5.4,-3,12.6,5,-3,-7,-2,4,2,-1,1
